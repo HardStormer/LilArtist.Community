@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+  lilartist.community.pl.webapilinux:
+    image: ${DOCKER_REGISTRY-}lilartistcommunityplwebapilinux
+    build:
+      context: .
+      dockerfile: LilArtist.Community.PL.WebApiLinux/Dockerfile
+
+  postgres:
+    container_name: postgres
+    image: postgres:13.3
+    environment:
+      POSTGRES_MULTIPLE_DATABASES: TestApiDB
+      POSTGRES_USER: app
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data:/var/lib/postgresql/data

@@ -13,12 +13,17 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.7" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\LilArtist.Community.BLL.Enitities\LilArtist.Community.BLL.Entities.csproj" />
     <ProjectReference Include="..\LilArtist.Community.DAL.Entities\LilArtist.Community.DAL.Entities.csproj" />
     <ProjectReference Include="..\LilArtist.Community.DAL.Interfaces\LilArtist.Community.DAL.Interfaces.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
   </ItemGroup>
 
 </Project>

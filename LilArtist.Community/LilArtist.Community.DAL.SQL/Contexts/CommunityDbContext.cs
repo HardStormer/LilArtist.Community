@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using LilArtist.Community.DAL.Entities;
+﻿using LilArtist.Community.DAL.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace LilArtist.Community.DAL.SQL
@@ -12,7 +7,8 @@ namespace LilArtist.Community.DAL.SQL
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=localhost, 1433;database=TestApiDB;User Id=sa;password=jfwQPWjd3dd;trusted_connection=False");
+            optionsBuilder.UseNpgsql("Host=postgres;Port=5432;Pooling=true;Database=TestApiDB;User Id=app;Password=password;Include Error Detail=true;Maximum Pool Size=10");
+            //optionsBuilder.UseSqlServer("server=localhost, 1433;database=TestApiDB;User Id=sa;password=jfwQPWjd3dd;trusted_connection=False");
             //optionsBuilder.UseSqlServer("server=DESKTOP-KQKU8P9\\SQLEXPRESS;database=TestApiDB;trusted_connection=True");
         }
 

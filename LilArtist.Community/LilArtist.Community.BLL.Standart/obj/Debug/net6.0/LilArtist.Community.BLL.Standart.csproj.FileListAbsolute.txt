@@ -19,3 +19,24 @@ C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.BLL.Standart
 C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\refint\LilArtist.Community.BLL.Standart.dll
 C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.pdb
 C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\ref\LilArtist.Community.BLL.Standart.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.BLL.Standart.deps.json
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.BLL.Standart.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.BLL.Standart.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.BLL.Entities.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.BLL.Interfaces.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.DAL.Entities.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.DAL.Interfaces.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.BLL.Entities.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.BLL.Interfaces.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.DAL.Interfaces.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\bin\Debug\net6.0\LilArtist.Community.DAL.Entities.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.csproj.AssemblyReference.cache
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.GeneratedMSBuildEditorConfig.editorconfig
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.AssemblyInfoInputs.cache
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.AssemblyInfo.cs
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.csproj.CoreCompileInputs.cache
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.csproj.CopyComplete
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\refint\LilArtist.Community.BLL.Standart.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\LilArtist.Community.BLL.Standart.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Standart\obj\Debug\net6.0\ref\LilArtist.Community.BLL.Standart.dll

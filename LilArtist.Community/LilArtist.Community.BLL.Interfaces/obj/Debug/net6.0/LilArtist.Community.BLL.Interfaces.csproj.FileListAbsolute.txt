@@ -13,3 +13,18 @@ C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.BLL.Interfac
 C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\refint\LilArtist.Community.BLL.Interfaces.dll
 C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.pdb
 C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\ref\LilArtist.Community.BLL.Interfaces.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\bin\Debug\net6.0\LilArtist.Community.BLL.Interfaces.deps.json
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\bin\Debug\net6.0\LilArtist.Community.BLL.Interfaces.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\bin\Debug\net6.0\LilArtist.Community.BLL.Interfaces.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\bin\Debug\net6.0\LilArtist.Community.BLL.Entities.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\bin\Debug\net6.0\LilArtist.Community.BLL.Entities.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.csproj.AssemblyReference.cache
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.AssemblyInfoInputs.cache
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.AssemblyInfo.cs
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.csproj.CoreCompileInputs.cache
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.csproj.CopyComplete
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\refint\LilArtist.Community.BLL.Interfaces.dll
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\LilArtist.Community.BLL.Interfaces.pdb
+D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.BLL.Interfaces\obj\Debug\net6.0\ref\LilArtist.Community.BLL.Interfaces.dll

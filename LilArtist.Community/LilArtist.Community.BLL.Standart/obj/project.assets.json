@@ -81,45 +81,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\betme\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.BLL.Standart\\LilArtist.Community.BLL.Standart.csproj",
+      "projectUniqueName": "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.BLL.Standart\\LilArtist.Community.BLL.Standart.csproj",
       "projectName": "LilArtist.Community.BLL.Standart",
-      "projectPath": "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.BLL.Standart\\LilArtist.Community.BLL.Standart.csproj",
-      "packagesPath": "C:\\Users\\betme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.BLL.Standart\\obj\\",
+      "projectPath": "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.BLL.Standart\\LilArtist.Community.BLL.Standart.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.BLL.Standart\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\betme\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.w1.money/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.BLL.Enitities\\LilArtist.Community.BLL.Entities.csproj": {
-              "projectPath": "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.BLL.Enitities\\LilArtist.Community.BLL.Entities.csproj"
+            "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.BLL.Enitities\\LilArtist.Community.BLL.Entities.csproj": {
+              "projectPath": "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.BLL.Enitities\\LilArtist.Community.BLL.Entities.csproj"
             },
-            "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.BLL.Interfaces\\LilArtist.Community.BLL.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.BLL.Interfaces\\LilArtist.Community.BLL.Interfaces.csproj"
+            "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.BLL.Interfaces\\LilArtist.Community.BLL.Interfaces.csproj": {
+              "projectPath": "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.BLL.Interfaces\\LilArtist.Community.BLL.Interfaces.csproj"
             },
-            "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.DAL.Interfaces\\LilArtist.Community.DAL.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.DAL.Interfaces\\LilArtist.Community.DAL.Interfaces.csproj"
+            "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.DAL.Interfaces\\LilArtist.Community.DAL.Interfaces.csproj": {
+              "projectPath": "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.DAL.Interfaces\\LilArtist.Community.DAL.Interfaces.csproj"
             }
           }
         }
@@ -139,7 +134,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -148,8 +144,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.w1.money/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

@@ -1,0 +1,91 @@
+name: dockercompose11544635600328783144
+services:
+  lilartist.community.pl.webapilinux:
+    build:
+      context: D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community
+      dockerfile: LilArtist.Community.PL.WebApiLinux/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: LilArtist.Community.PL.WebApiLinux
+      target: base
+    container_name: LilArtist.Community.PL.WebApiLinux
+    entrypoint:
+    - tail
+    - -f
+    - /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: ""
+    image: lilartistcommunityplwebapilinux:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net6.0/LilArtist.Community.PL.WebApiLinux.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    tty: true
+    volumes:
+    - type: bind
+      source: D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\LilArtist.Community.PL.WebApiLinux
+      target: /app
+      bind:
+        create_host_path: true
+    - type: bind
+      source: D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community
+      target: /src
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\user\vsdbg\vs2017u5
+      target: /remote_debugger
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\user\.nuget\packages\
+      target: /root/.nuget/packages
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\user\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\user\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+  postgres:
+    container_name: postgres
+    environment:
+      POSTGRES_MULTIPLE_DATABASES: TestApiDB
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: app
+    image: postgres:13.3
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 5432
+      published: "5433"
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: D:\A Project\Примеры проекты\avito\LilArtist.Community\LilArtist.Community\data
+      target: /var/lib/postgresql/data
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose11544635600328783144_default

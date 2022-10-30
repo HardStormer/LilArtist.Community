@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "+HkQoALm701vvUbkhLTLbocVJNUoWiGoYXPK8u5lJJfeubtbCm9CnDQPEgu4GzG6tVXcUshd+2egAqhhVdoJGA==",
+  "dgSpecHash": "9QLI0FgfcNepfBxjElOS2Ad2jB6f7dKzTM/dvA88NxgZ3fjVeis619iGzeVekPuxl2fT2pLhmmjrR+rqmFIfMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\betme\\source\\repos\\LilArtist.Community\\LilArtist.Community.BLL.Interfaces\\LilArtist.Community.BLL.Interfaces.csproj",
+  "projectFilePath": "D:\\A Project\\Примеры проекты\\avito\\LilArtist.Community\\LilArtist.Community\\LilArtist.Community.BLL.Interfaces\\LilArtist.Community.BLL.Interfaces.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.w1.money/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

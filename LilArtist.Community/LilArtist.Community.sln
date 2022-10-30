@@ -23,18 +23,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LilArtist.Community.BLL.Int
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LilArtist.Community.BLL.Standart", "LilArtist.Community.BLL.Standart\LilArtist.Community.BLL.Standart.csproj", "{01D6A6C7-33C3-4EB4-99F5-7917577855B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LilArtist.Community.PL.Console", "LilArtist.Community.PL.Console\LilArtist.Community.PL.Console.csproj", "{830BD170-9940-422C-A72E-1976660B6882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LilArtist.Community.PL.Console", "LilArtist.Community.PL.Console\LilArtist.Community.PL.Console.csproj", "{830BD170-9940-422C-A72E-1976660B6882}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9F5442F0-6F01-402F-A018-BAD3EFBB6F41}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
+		docker-compose.yml = docker-compose.yml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{758557DF-7806-469D-A418-2AE0CB21A55B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LilArtist.Community.Dependencies", "LilArtist.Community.Dependencies\LilArtist.Community.Dependencies.csproj", "{187EAF64-7EEF-46AD-B530-C677AE7EB2C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LilArtist.Community.Dependencies", "LilArtist.Community.Dependencies\LilArtist.Community.Dependencies.csproj", "{187EAF64-7EEF-46AD-B530-C677AE7EB2C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LilArtist.Community.PL.WebApiLinux", "LilArtist.Community.PL.WebApiLinux\LilArtist.Community.PL.WebApiLinux.csproj", "{B9F6D6B6-0788-4B3A-A244-4A24449C5F55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LilArtist.Community.PL.WebApiLinux", "LilArtist.Community.PL.WebApiLinux\LilArtist.Community.PL.WebApiLinux.csproj", "{B9F6D6B6-0788-4B3A-A244-4A24449C5F55}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{173337DA-87B8-4820-9431-E02346489DEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -82,6 +85,10 @@ Global
 		{B9F6D6B6-0788-4B3A-A244-4A24449C5F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9F6D6B6-0788-4B3A-A244-4A24449C5F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9F6D6B6-0788-4B3A-A244-4A24449C5F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173337DA-87B8-4820-9431-E02346489DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173337DA-87B8-4820-9431-E02346489DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173337DA-87B8-4820-9431-E02346489DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173337DA-87B8-4820-9431-E02346489DEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
