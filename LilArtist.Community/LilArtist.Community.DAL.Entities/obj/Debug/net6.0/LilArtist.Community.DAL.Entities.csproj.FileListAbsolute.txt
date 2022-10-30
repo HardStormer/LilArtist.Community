@@ -1,0 +1,12 @@
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\bin\Debug\net6.0\LilArtist.Community.DAL.Entities.deps.json
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\bin\Debug\net6.0\LilArtist.Community.DAL.Entities.dll
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\bin\Debug\net6.0\LilArtist.Community.DAL.Entities.pdb
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\LilArtist.Community.DAL.Entities.csproj.AssemblyReference.cache
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\LilArtist.Community.DAL.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\LilArtist.Community.DAL.Entities.AssemblyInfoInputs.cache
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\LilArtist.Community.DAL.Entities.AssemblyInfo.cs
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\LilArtist.Community.DAL.Entities.csproj.CoreCompileInputs.cache
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\LilArtist.Community.DAL.Entities.dll
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\refint\LilArtist.Community.DAL.Entities.dll
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\LilArtist.Community.DAL.Entities.pdb
+C:\Users\betme\source\repos\LilArtist.Community\LilArtist.Community.DAL.Entities\obj\Debug\net6.0\ref\LilArtist.Community.DAL.Entities.dll

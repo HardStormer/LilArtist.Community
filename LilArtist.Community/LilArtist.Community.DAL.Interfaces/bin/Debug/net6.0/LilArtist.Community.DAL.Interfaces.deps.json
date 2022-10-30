@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LilArtist.Community.DAL.Interfaces/1.0.0": {
+        "dependencies": {
+          "LilArtist.Community.BLL.Entities": "1.0.0",
+          "LilArtist.Community.DAL.Entities": "1.0.0"
+        },
+        "runtime": {
+          "LilArtist.Community.DAL.Interfaces.dll": {}
+        }
+      },
+      "LilArtist.Community.BLL.Entities/1.0.0": {
+        "runtime": {
+          "LilArtist.Community.BLL.Entities.dll": {}
+        }
+      },
+      "LilArtist.Community.DAL.Entities/1.0.0": {
+        "runtime": {
+          "LilArtist.Community.DAL.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LilArtist.Community.DAL.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LilArtist.Community.BLL.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LilArtist.Community.DAL.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

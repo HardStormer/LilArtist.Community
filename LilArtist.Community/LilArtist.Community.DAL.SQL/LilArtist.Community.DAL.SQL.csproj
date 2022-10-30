@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LilArtist.Community.BLL.Enitities\LilArtist.Community.BLL.Entities.csproj" />
+    <ProjectReference Include="..\LilArtist.Community.DAL.Entities\LilArtist.Community.DAL.Entities.csproj" />
+    <ProjectReference Include="..\LilArtist.Community.DAL.Interfaces\LilArtist.Community.DAL.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LilArtist.Community.BLL.Enitities\LilArtist.Community.BLL.Entities.csproj" />
+    <ProjectReference Include="..\LilArtist.Community.BLL.Interfaces\LilArtist.Community.BLL.Interfaces.csproj" />
+    <ProjectReference Include="..\LilArtist.Community.DAL.Interfaces\LilArtist.Community.DAL.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>
